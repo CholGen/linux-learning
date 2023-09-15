@@ -1,7 +1,0 @@
---- Welcome to the "test" directory ---
-
-Contents:
-    a folder
-    b folder
-    c folder
-
